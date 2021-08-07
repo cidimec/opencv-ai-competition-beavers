@@ -28,11 +28,13 @@ python3 5_Ubidots&Telegram.py
 
 The information can be seen in this link:
 https://stem.ubidots.com/app/dashboards/public/dashboard/a_HfJthGvk0VDJVFnpFlyOZOJNSB6jOFylS68S7gY4k?nonavbar=true
+
 4A. Top view Simulation
 ```
 python3 4A_Top_View_Demo.py
 ```
 ![alt text](https://github.com/cidimec/opencv-ai-competition-beavers/blob/main/Images/Vista_superior.png)
+
 4B. Top view Simulation
 ```
 python3 4B_WindowConfig.py
