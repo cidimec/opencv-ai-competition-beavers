@@ -55,6 +55,6 @@ python3 6_Jetson_Alarms.py
 
 ### Jetson Nano:
 
-![alt text](https://github.com/cidimec/opencv-ai-competition-beavers/blob/main/OAK%20mounts/Jetson%20Nano/Animations/Jetson_animation.gif)
-
 ![alt text](https://github.com/cidimec/opencv-ai-competition-beavers/blob/main/OAK%20mounts/Jetson%20Nano/Animations/Jetson_assembly.gif)
+
+![alt text](https://github.com/cidimec/opencv-ai-competition-beavers/blob/main/OAK%20mounts/Jetson%20Nano/Animations/Jetson_animation.gif)
