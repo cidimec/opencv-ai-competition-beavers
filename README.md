@@ -52,3 +52,9 @@ python3 6_Jetson_Alarms.py
 ![alt text](https://github.com/cidimec/opencv-ai-competition-beavers/blob/main/OAK%20mounts/Tripod/Animations/Tripod_Assembly.gif)
 
 ![alt text](https://github.com/cidimec/opencv-ai-competition-beavers/blob/main/OAK%20mounts/Tripod/Animations/Animation.gif)
+
+### Jetson Nano:
+
+![alt text](https://github.com/cidimec/opencv-ai-competition-beavers/blob/main/OAK%20mounts/Jetson%20Nano/Animations/Jetson_animation.gif)
+
+![alt text](https://github.com/cidimec/opencv-ai-competition-beavers/blob/main/OAK%20mounts/Jetson%20Nano/Animations/Jetson_assembly.gif)
