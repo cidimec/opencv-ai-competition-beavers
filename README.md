@@ -39,7 +39,7 @@ python3 4A_Top_View_Demo.py
 ```
 python3 4B_WindowConfig.py
 ```
-![alt text](https://github.com/cidimec/opencv-ai-competition-beavers/blob/main/Images/Configuracion_inicial.png)
+![alt text](https://github.com/cidimec/opencv-ai-competition-beavers/blob/main/Images/Initial_setup.jpeg)
 
 5. Deploying Jetson Nano to activate alarms and display to show probability
 ```
