@@ -29,7 +29,7 @@ python3 5_Ubidots&Telegram.py
 The information can be seen in this link:
 https://stem.ubidots.com/app/dashboards/public/dashboard/a_HfJthGvk0VDJVFnpFlyOZOJNSB6jOFylS68S7gY4k?nonavbar=true
 
-4A. Top view imulation
+4A. Top view simulation
 ```
 python3 4A_Top_View_Demo.py
 ```
