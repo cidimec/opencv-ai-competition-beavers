@@ -6,6 +6,11 @@ python3 Gauss_random_positions.py
 ```
 python3 Gauss_load_positions.py
 ```
+## 3. The OAK-D code to save de positions in a picke file
+This code don't need Jetson Nano or Raspberry, only the camera OAK-D
+```
+python3 Final_OAK-D_Code.py
+```
 ## Demo Video
 [![https://youtu.be/suBD1Plwa9M]](https://youtu.be/suBD1Plwa9M)
 
